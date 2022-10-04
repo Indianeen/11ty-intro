@@ -7,7 +7,7 @@ title: test
 dsfsdfsdfsd
 # Hello world
 
-{% image "/images/PDA.jpg", "Evil", "400px", "auto" %}
+{% image "./src/images/fishy.jpg", "photo of a fishy fish", "(min-width: 30em) 50vw, 100vw" %}
 
 
 Världens *roligaste* **hellow** sida!
